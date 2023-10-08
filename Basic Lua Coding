@@ -1,0 +1,9 @@
+Alright so, to make a part destroy itself you will have to do: 
+while true do
+nameofyourparthere:Destroy()
+end
+
+How to make a cameraType scriptable?:
+Enum.CameraType.Scriptable
+All of that is so simple.
+See you next time!
